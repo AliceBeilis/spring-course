@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26a97591-a298-4e1f-a939-4358874af24a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="hibernate-configuration-5.2" />
+        <option value="hibernate-main-5.2" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2J4tprLvjte07kWcq2yUyGwfkE2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Alice\IdeaProjects\spring\buns\homework3_new\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test5">
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hibernate_one_to_many_uni.Test1" />
+      <module name="homework3_new" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hibernate_one_to_many_uni.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hibernate_test.Test5" />
+      <module name="homework3_new" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hibernate_test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test5" />
+        <item itemvalue="Application.Test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26a97591-a298-4e1f-a939-4358874af24a" name="Default Changelist" comment="" />
+      <created>1671349368214</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671349368214</updated>
+      <workItem from="1671349371383" duration="1085000" />
+      <workItem from="1671350572809" duration="739000" />
+    </task>
+    <task id="LOCAL-00001" summary="refactor project3">
+      <created>1671350356852</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671350356852</updated>
+    </task>
+    <task id="LOCAL-00002" summary="refactor project3">
+      <created>1671351062070</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671351062070</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="refactor project3" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor project3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="799" y="79" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1671349475600">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="799" y="79" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824@0.0.1536.824" timestamp="1671349475600" />
+    <state x="722" y="154" key="FileChooserDialogImpl" timestamp="1671349653685">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="722" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1671349653685" />
+    <state width="691" height="194" key="GridCell.Tab.0.bottom" timestamp="1671350251332">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="691" height="194" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1671350251332" />
+    <state width="691" height="194" key="GridCell.Tab.0.center" timestamp="1671350251332">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="691" height="194" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1671350251332" />
+    <state width="691" height="194" key="GridCell.Tab.0.left" timestamp="1671350251331">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="691" height="194" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1671350251331" />
+    <state width="691" height="194" key="GridCell.Tab.0.right" timestamp="1671350251332">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="691" height="194" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1671350251332" />
+    <state x="349" y="155" key="IDE.errors.dialog" timestamp="1671350636439">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="155" key="IDE.errors.dialog/0.0.1536.824@0.0.1536.824" timestamp="1671350636439" />
+    <state x="498" y="0" key="SettingsEditor" timestamp="1671350986270">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1671350986270" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1671351096466">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1671351096466" />
+  </component>
+</project>
